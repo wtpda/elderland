@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.itch.io	TRUE	/	FALSE	1999999999	itchio_token	IjZQdnVXSklFejNVQjRNOSBVUiBCVVRUIFFLeGI0N2NWNURPUHU5diI%3d%2el2XbKkTCNs2TVatPFZY7FXYGFww%3d
+.itch.io	TRUE	/	FALSE	1999999999	ref%3aregister%3areferrer	http%3a%2f%2ftrexy247xd%2eitch%2eio%2felderland
+
